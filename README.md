@@ -1,7 +1,7 @@
 My Project
 ---
  
-Welcome.
+Welcome. This app is for learning react.
  
 Usage
 ---

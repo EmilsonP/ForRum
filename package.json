@@ -1,7 +1,7 @@
 {
   "name": "ForRum",
   "version": "1.0.0",
-  "description": "",
+  "description": "This app is for learning react",
   "main": "index.js",
   "scripts": {
     "compile": "webpack",
